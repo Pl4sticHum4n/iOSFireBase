@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="17192" systemVersion="19H1519" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Pelicula" representedClassName="Pelicula" syncable="YES" codeGenerationType="class">
+        <attribute name="duracion" optional="YES" attributeType="String"/>
+        <attribute name="genero" optional="YES" attributeType="String"/>
+        <attribute name="lanzamiento" optional="YES" attributeType="String"/>
+        <attribute name="pais" optional="YES" attributeType="String"/>
+        <attribute name="poster" optional="YES" attributeType="Binary"/>
+        <attribute name="titulo" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="Pelicula" positionX="-45" positionY="0" width="128" height="133"/>
+    </elements>
+</model>
